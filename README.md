@@ -20,14 +20,20 @@ This tool is ideal for physics experiments, educational demonstrations, and vali
 📚 Background
 
 This project was originally developed as part of a physics-for-engineering course experiment, where we constructed a makeshift eddy current induction stove. The setup involved:
+
 	•	A power drill to spin a disc embedded with alternating polarity magnets,
+ 
 	•	A nickel sample placed inside a glass beaker of water above the rotating disc.
+ 
 
 The goal was to explore how rotational magnetic fields induce eddy currents in a conductor, resulting in resistive heating.
 
 While the mathematical modeling in the script is theoretically sound and aligned well with electromagnetic theory, the experimental results highlighted two key limitations:
+
 	1.	Insufficient RPM — Our drill could not reach a high enough rotational speed to generate significant eddy currents using the relatively low-strength magnets we had available.
+ 
 	2.	Thermal insulation — The glass beaker acted as a thermal barrier, significantly reducing the amount of heat transferred from the nickel to the water.
+ 
 
 As a result, the experiment served more as a proof of concept rather than a fully functional induction heater. Nevertheless, the project provided valuable insights into energy conversion, magnetic field dynamics, and the challenges of experimental heat transfer — and the script remains useful for theoretical estimation, hypothesis testing, and instructional demonstrations.
 
